@@ -8,7 +8,7 @@ $ cat readme.md
 $ cat instructions
 $ cd mystery
 
-$ grep "CLUE" crimescence
+$ grep "CLUE" crimescene
 
 #suspect is a tall 6' male with memberships AA, Delta SkyMiles, the local library, and the Museum of Bash History
 #talk to a Anibel for more infor
